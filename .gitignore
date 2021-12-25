@@ -1,6 +1,5 @@
 env/
 __pycache__/
-USA Output/
 *.txt
 *.zip
 *.docx
